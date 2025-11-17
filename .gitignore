@@ -1,0 +1,6 @@
+node_modules/
+cypress/fixtures/internalSiteJobs.json
+cypress/fixtures/externalSiteJobs.json
+cypress/fixtures/externalApplyLinks.json
+
+.env
